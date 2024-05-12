@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugasfend</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">galeri</string>
+    <string name="menu_film">Film</string>
+    <string name="menu_detail">Detail</string>
+    <string name="menu_about">Tentang</string>
+</resources>
